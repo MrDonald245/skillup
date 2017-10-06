@@ -1,0 +1,10 @@
+{
+  "db": {
+    "username": "root",
+    "password": "",
+    "dbname": "skillup",
+    "type": "mysql",
+    "host": "127.0.0.1"
+  },
+  "package_name": "skillup"
+}
